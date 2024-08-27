@@ -1,6 +1,5 @@
-
-
 const creche = []
+
 const nextId = 1
 const model = (id = nextId++, body) => {
     if( body.servico != undefined &&
